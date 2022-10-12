@@ -10,7 +10,7 @@
   "dependencies": {
     "core-js": "^3.3.2",
     "docx": "^5.0.0-rc7",
-    "docxtemplater": "^3.14.3",
+    "docxtemplater": "^3.31.4",
     "element-ui": "^2.12.0",
     "file-saver": "^2.0.2",
     "fs": "0.0.1-security",
